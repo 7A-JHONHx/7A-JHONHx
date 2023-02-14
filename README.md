@@ -5,5 +5,5 @@
 - 🤯 Sempre buscando novos conhecimentos... 
 
 <div> 
- <a height="180em" href="https://github-readme-stats.vercel.app/api?username=7A-JHONHx&show_icons=true&theme=radical">
+ <a height="180em" href="https://github-readme-stats.vercel.app/api?username=7A-JHONHx&show_icons=true&theme=dark">
 </di>
