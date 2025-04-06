@@ -1,6 +1,6 @@
 # 👨‍💻 Jhonathan Andrade
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Jhonathan andrade, tenho 22 anos e sou de São Paulo, SP. Concluí o ensino médio em escola pública , com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar. Sou apaixonado por tecnologia.
 
